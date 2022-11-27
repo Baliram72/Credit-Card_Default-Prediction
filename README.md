@@ -57,3 +57,11 @@ Based on the exploratory data analysis, we discover that human characteristics a
 From the modeling, we are able to classify default risk with accessible customer data and find a decent model. Using a Logistic Regression classifier, we can predict with 73% accuracy, whether a customer is likely to default next month. Using a Random Forest classifier, we can predict with 92% accuracy, whether a customer is likely to default next month. Using a XG BOOST classifier, we can predict with 88% accuracy, whether a customer is likely to default next month.
 
 If the balance of recall and precision is the most important metric, then Random Forest is the ideal model.
+
+Reference
+Machine Learning Mastery
+Geeks for Geeks
+Udemy
+LinkedIn
+
+
