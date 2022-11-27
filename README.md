@@ -58,7 +58,7 @@ From the modeling, we are able to classify default risk with accessible customer
 
 If the balance of recall and precision is the most important metric, then Random Forest is the ideal model.
 
-Reference
+Reference:
 Machine Learning Mastery
 Geeks for Geeks
 Udemy
